@@ -7,6 +7,12 @@
   },
   "dependencies": {
     "express": "3.3.8",
-    "jade": "*"
+    "jade": "*",
+    "xpath": "*",
+    "xmldom": "*",
+    "rss": "*",
+    "request": "*",
+    "atom-writer": "~1.1.2",
+    "xml-writer": "~1.4.0"
   }
 }
